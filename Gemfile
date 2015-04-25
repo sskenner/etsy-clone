@@ -5,6 +5,14 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '1.3.9'
+#gem 'bootstrap-sass', '~> 3.2.0'
+#gem 'autoprefixer-rails'
+gem "therubyracer"
+gem "less-rails"
+gem "twitter-bootstrap-rails"
+gem 'bootstrap-sass', '3.2.0.2'
+gem 'font-awesome-less'
+gem 'font-awesome-sass'
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
 # Use Uglifier as compressor for JavaScript assets
